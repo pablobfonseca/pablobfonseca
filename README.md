@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a software developer, passionate about learning and web development, vim/emacs evangelist, very skilled in working remotely. I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
+
+🚀 I'm currently working for [Upscope](https://upscope.com) as a Lead Software Engineer.
+
+🌱 I'm currently learning ReactJS and improving my Go skills
+
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobfonseca&hide=html,css&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pablobfonseca&theme=dark"/></td>
+    </tr>   
+</table>
+</center>  
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,react,git,linux,postgres,mongodb,mysql,vim,emacs)](https://skillicons.dev)
