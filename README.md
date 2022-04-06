@@ -18,7 +18,7 @@ I am a software developer, passionate about learning and web development, vim/em
 
 🚀 I'm currently working for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
-🌱 I'm currently learning ReactJS and improving my Go skills
+🌱 I'm improving my ReactJS and Go skills
 
 
 <center>
