@@ -30,4 +30,4 @@ I am a software developer, passionate about learning and web development, vim/em
 </table>
 </center>  
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,typescript,react,git,linux,postgres,mongodb,mysql,vim,emacs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,typescript,react,git,linux,postgres,mongodb,mysql,vim,emacs,elm)](https://skillicons.dev)
