@@ -18,7 +18,7 @@ I am a software developer, passionate about learning and web development, vim/em
 
 🚀 I'm currently working for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
-🌱 I'm improving my Typescript and Go skills.
+🌱 I'm improving my Typescript, Go and FP (Haskell and Elm) skills.
 
 
 <center>
@@ -30,4 +30,4 @@ I am a software developer, passionate about learning and web development, vim/em
 </table>
 </center>  
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,js,ts,react,git,linux,postgres,mongodb,mysql,neovim,emacs,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,js,ts,react,git,linux,postgres,mongodb,mysql,neovim,emacs,lua,haskell)](https://skillicons.dev)
