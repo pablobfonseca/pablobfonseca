@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software developer, passionate about learning and web development, vim/emacs evangelist, very skilled in working remotely. I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
+I am a software engineer, passionate about learning and web development, vim/emacs evangelist, very skilled in working remotely. I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
 
 🚀 I'm currently working for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
