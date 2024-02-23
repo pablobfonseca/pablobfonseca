@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software engineer, passionate about learning and web development, vim/emacs evangelist, very skilled in working remotely. I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
+I am a software engineer, passionate about learning and programming, vim/emacs evangelist, yes I like to use both (evil-mode on emacs brings the best of the both worlds 😜). I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
 
-🚀 I'm currently working for [Upscope](https://upscope.com) as a Lead Software Engineer.
+🚀 I work for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
 🌱 I'm improving my Typescript, Go and FP (Haskell and Elm) skills.
 
+⚡ Fun fact: I love human languages as much as I love programming languages, I am currently trying to learn a few languages in my spare time: 🇯🇵🇰🇷🇮🇹🇪🇸🇮🇱
 
 <center>
 <table>
