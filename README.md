@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a software engineer, passionate about learning and programming, vim/emacs evangelist, yes I like to use both (evil-mode on emacs brings the best of the both worlds 😜). I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
+I am a software engineer, passionate about learning and programming, vim evangelist, yes I like to use both (evil-mode on emacs brings the best of the both worlds 😜). I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
 
 🚀 I work for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
