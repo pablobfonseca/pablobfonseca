@@ -18,7 +18,7 @@ I am a software engineer, passionate about learning and programming, vim evangel
 
 🚀 I work for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
-🌱 I'm improving my Typescript, Go and FP (Haskell and Elm) skills.
+🌱 I'm improving my Typescript, Go and FP (oCaml) skills.
 
 ⚡ Fun fact: I love human languages as much as I love programming languages, I am currently trying to learn a few languages in my spare time: 🇯🇵🇰🇷🇮🇹🇪🇸🇮🇱
 
@@ -31,4 +31,4 @@ I am a software engineer, passionate about learning and programming, vim evangel
 </table>
 </center>  
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,js,ts,react,git,linux,postgres,mongodb,mysql,neovim,emacs,lua,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,nodejs,python,go,js,ts,react,git,linux,postgres,mongodb,mysql,neovim,emacs,lua)](https://skillicons.dev)
