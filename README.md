@@ -18,7 +18,7 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 
 🚀 I work for [Upscope](https://upscope.com) as a Lead Software Engineer.
 
-🌱 I'm improving my Typescript, Go and FP (oCaml) skills.
+🌱 I've been studying Functional Programming and improving my Go skills.
 
 ⚡ Fun fact: I love human languages as much as I love programming languages, I am currently trying to learn a few languages in my spare time: 🇯🇵🇰🇷🇮🇹🇪🇸🇮🇱
 
