@@ -30,4 +30,4 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 </table>
 </center>  
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,python,react,ruby,git,linux,postgres,mongodb,mysql,neovim,emacs,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,python,react,ruby,git,linux,postgres,mongodb,mysql,neovim,lua)](https://skillicons.dev)
