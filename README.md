@@ -25,7 +25,7 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobfonseca&hide=html,css&layout=compact&theme=dark" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablobfonseca&hide=html,css&layout=compact&theme=dark" /></td>
     </tr>   
 </table>
 </center>  
