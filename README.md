@@ -31,5 +31,3 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 </center>  KKK
 -->
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,python,react,ruby,git,linux,postgres,mongodb,mysql,neovim,lua,emacs)](https://skillicons.dev)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K81SQGXQ)
