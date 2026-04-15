@@ -21,13 +21,5 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 🌱 I've been studying Functional Programming and improving my Go skills.
 
 ⚡ Fun fact: I love human languages as much as I love programming languages, I am currently trying to learn a few languages in my spare time: 🇯🇵🇰🇷🇮🇹🇪🇸🇮🇱
-<!--
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablobfonseca&hide=html,css&layout=compact&theme=dark" /></td>
-    </tr>   
-</table>
-</center>  KKK
--->
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,python,react,ruby,git,linux,postgres,mongodb,mysql,neovim,lua,emacs)](https://skillicons.dev)
