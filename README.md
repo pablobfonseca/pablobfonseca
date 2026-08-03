@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a software engineer, passionate about learning and programming, vim/neovim evangelist. I have worked on several projects for international companies, I like to be challenged and learn new ways of doing things.
 
-🚀 I work for [Upscope](https://upscope.com) as a Lead Software Engineer.
+🚀 I work for [Upscope](https://upscope.com) as a Lead Software Engineer and I'm the Co-Founder of [Tribemap](https://tribemap.ai).
 
 ▦ I created [DevDeck](https://devdeck.app) a shortcut deck for iPhone and Mac.
 
