@@ -22,6 +22,8 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 
 🌱 I've been studying Functional Programming and improving my Go skills.
 
+🎸 I play the guitar
+
 ⚡ Fun fact: I love human languages as much as I love programming languages, I am currently trying to learn a few languages in my spare time: 🇯🇵🇰🇷🇮🇹🇪🇸🇮🇱
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,go,python,react,ruby,git,linux,postgres,mongodb,mysql,neovim,lua,emacs)](https://skillicons.dev)
