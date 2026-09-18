@@ -22,7 +22,7 @@ I am a software engineer, passionate about learning and programming, vim/neovim 
 
 🌱 I've been studying Functional Programming and improving my Go skills.
 
-🎸 I play the guitar
+🎸 I love music, I play guitar (electric and acoustic) and piano.
 
 ⚡ Fun fact: I love human languages as much as I love programming languages, I am currently trying to learn a few languages in my spare time: 🇯🇵🇰🇷🇮🇹🇪🇸🇮🇱
 
